@@ -77,4 +77,5 @@ A user-friendly Online Bookstore project in which users can log in or register, 
 
 <bold>Thanks a lot,</bold><br/>
                                                                                                         Project Leader<br/>
-                                                                                                        <b>Vinay Kartheek [RA2411026010953]</b>
+                                                                                                        <b>Vinay Kartheek [RA2411026010953] SRMIST KTR</b>
+
